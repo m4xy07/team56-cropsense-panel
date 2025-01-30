@@ -1,3 +1,25 @@
+# Webview panel dashboard that shows all the info and metrics
+
+# **Team Members**
+
+Connect with us on LinkedIn.
+
+Aman Shaikh: [LinkedIn](https://www.linkedin.com/in/aman-shaikh33/)  
+Jay Patil: [LinkedIn](https://www.linkedin.com/in/jay-patil-562046285/)  
+Dhruv Choudhary: [LinkedIn](https://www.linkedin.com/in/dhruv-choudhary-ab0421291/)                     
+Aditya Jadhav: [LinkedIn](https://www.linkedin.com/in/aditya-jadhav-83574a347/)
+
+
+# Other Repos of the same project that work hand-in-hand:
+
+Frontend UI - https://github.com/m4xy07/team56-frontend
+Backend - Arduino - https://github.com/m4xy07/team56-backend
+Server - Middleware - https://github.com/m4xy07/team56-server
+Panel - WebView Dashboard - https://github.com/m4xy07/team56-cropsense-panel
+
+**Project Video** - https://youtu.be/zj87L2JrtaQ
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
